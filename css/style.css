@@ -1558,7 +1558,7 @@ h4.panel-title a.collapsed:after {
 /*VIDEO*/
 
 #video{
-	padding: 70px 0px;
+	padding: 0px 0px;
 }
 .video-background{
     width: 100%;
